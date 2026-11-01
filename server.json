@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.BumiAtlas/mozambique-land-rights",
+  "title": "Mozambique Land Rights (DUAT · Terras comunitárias)",
+  "description": "Mozambican DUAT land-use rights, community land delimitations and SIDICA parcels by point or name.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/BumiAtlas/mozambique-land-rights-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://bumiatlas.com/mcp-docs/mozambique",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bumiatlas.com/mcp/mozambique"
+    }
+  ]
+}
